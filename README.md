@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manisha Samanta</h1>
 <h3 align="center">Aspiring Full Stack Java Developer</h3>
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="200" src=""/>
 
 ---
 
