@@ -35,14 +35,21 @@
 
 
 📜 Certifications
+
 🏅 Programming in Java (NPTEL – IIT Kharagpur) – 82% 
+
 🏅 Full Stack Certification – MTA Learning Pvt. Ltd.
 
 🎯 Areas of Interest
+
 Full-Stack Development
+
 Java Backend Development
+
 Learning & experimenting with emerging tech
+
 Travelling & exploring
+
 exploring
 
 
