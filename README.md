@@ -28,35 +28,23 @@
 
 ---
 
-## 📂 Projects
-
-- 🏥 Diagnostic Management System
-- 🍽 Restaurant Management System
-- 🎉 Durga Puja Website
-- 🍔 Food Delivery Website
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://your-portfolio-link
-- 💼 LinkedIn: https://www.linkedin.com/in/manisha-samanta-a856282b9
-- 💻 GitHub: https://github.com/manisha7work-dev
+🌟 Featured Projects
+🔹 Diagnostic Management System
+✔ Java (JSP + Servlets), JDBC, MySQL, HTML, CSS, Bootstrap
+✔ Manages patients, appointments, medical history
 
 
+📜 Certifications
+🏅 Programming in Java (NPTEL – IIT Kharagpur) – 82% 
+🏅 Full Stack Certification – MTA Learning Pvt. Ltd.
 
+🎯 Areas of Interest
+Full-Stack Development
+Java Backend Development
+Learning & experimenting with emerging tech
+Travelling & exploring
+exploring
+🤝 Let's Connect!
+https://github.com/manisha7work-dev
 
-🚀 Tech Stack & Tools
-Languages 
-
-
-Frontend
-
-
-Backend
-
-
-Database
-
-
-Tools
+⭐ Thanks for visiting my profile!
