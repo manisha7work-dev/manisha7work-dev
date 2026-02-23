@@ -27,9 +27,12 @@
 ---
 
 🌟 Featured Projects
+
 🔹 Diagnostic Management System
+
 ✔ Java (JSP + Servlets), JDBC, MySQL, HTML, CSS, Bootstrap
 ✔ Manages patients, appointments, medical history
+
 
 
 📜 Certifications
